@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-apt update
-apt install -f npm nodejs
 
+
+npm install
 npm run start
