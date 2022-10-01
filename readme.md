@@ -1,6 +1,6 @@
 ```
 sudo su
 apt update
-apt install -f npm nodejs
+apt install -y npm nodejs
 ./run.sh
 ```
